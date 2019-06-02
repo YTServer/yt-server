@@ -1,6 +1,6 @@
 # yt server
 
-Server IP Address : whitey.ddns.net:27010
+Server Address : tf.whitey.me:27010
 
 [Home Page (Building)](https://zwhitey.github.io/yt-server/ "Title")
 
